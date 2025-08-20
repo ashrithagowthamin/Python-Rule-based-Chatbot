@@ -1,0 +1,5 @@
+{
+  "name": "Python Rule-Based Chatbot",
+  "description": "A simple rule-based chatbot implemented in React and TypeScript that answers basic questions about the Python programming language.",
+  "requestFramePermissions": []
+}
